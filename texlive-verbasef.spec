@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-verbasef
 Version:	1.1
-Release:	4
+Release:	5
 Summary:	VERBatim Automatic Splitting of External Files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verbasef
