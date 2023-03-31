@@ -1,6 +1,6 @@
 Name:		texlive-verbasef
 Version:	21922
-Release:	1
+Release:	2
 Summary:	VERBatim Automatic Splitting of External Files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verbasef
