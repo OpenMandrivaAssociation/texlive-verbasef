@@ -3,7 +3,7 @@ Version:	21922
 Release:	2
 Summary:	VERBatim Automatic Splitting of External Files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verbasef
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/verbasef
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verbasef.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verbasef.doc.r%{version}.tar.xz
